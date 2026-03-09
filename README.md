@@ -213,25 +213,6 @@ asadullah = {
 
 </div>
 
----
-
-## 📚 Top Kaggle Notebooks
-
-<div align="center">
-
-| 📌 Project | 🔍 Description | 🏅 Medal |
-|-----------|----------------|---------|
-| 🫀 [Heart Disease Classifier](https://www.kaggle.com/code/asadullahcreative/heart-disease-classifier-eda-ml) | Comprehensive EDA + Multiple ML models | 🥈 Silver |
-| 🌦️ [Climate Forecasting](https://www.kaggle.com/code/asadullahcreative/climate-forecasting-prophet) | Time series with Facebook Prophet | 🥈 Silver |
-| 🧠 [CNN Image Classifier](https://www.kaggle.com/code/asadullahcreative/cnn-image-classifier-tensorflow-quick-start) | TensorFlow CNN multi-class classification | 🥈 Silver |
-| 🚢 [Titanic ML Pipeline](https://www.kaggle.com/code/asadullahcreative/titanic-survival-prediction-ml-pipeline-ann) | End-to-end pipeline with ANN | 🥈 Silver |
-| 🎬 [IMDB Sentiment LSTM](https://www.kaggle.com/code/asadullahcreative/imdb-reviews-sentiment-analysis-lstm) | Deep learning NLP with LSTM | 🥈 Silver |
-| 📈 [ARIMA Forecasting](https://www.kaggle.com/code/asadullahcreative/arima-time-series-forecasting) | Statistical time series modeling | 🥉 Bronze |
-| 🧪 [Model Selection & Tuning](https://www.kaggle.com/code/asadullahcreative/best-model-selection-with-hyper-parameter-tuning) | GridSearchCV & model comparison | 🥉 Bronze |
-
-</div>
-
----
 
 ## 💼 Professional Experience
 
